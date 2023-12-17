@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "505266238198",
+    "project_id": "seblak-6cf5a",
+    "storage_bucket": "seblak-6cf5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505266238198:android:3dada3b7804534005572d7",
+        "android_client_info": {
+          "package_name": "com.example.seblak2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8quatQNcawnUEc_ifabmPX2a9BP65vbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505266238198:android:5711783247fcd5445572d7",
+        "android_client_info": {
+          "package_name": "com.seblak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8quatQNcawnUEc_ifabmPX2a9BP65vbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
